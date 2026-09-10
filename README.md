@@ -10,3 +10,22 @@ methodology, and controlled security experiments.
 Black-box assessment methodology, HTTP testing, evidence collection,
 impact analysis, and remediation.
 
+
+### CVE-2026-27739 — Angular SSRF
+
+Black-box assessment methodology, HTTP testing, evidence collection,
+impact analysis, and remediation.
+
+
+
+
+## Bug reports
+
+### Authorization bypass
+
+### Business logic
+
+### Information disclosure
+
+
+
